@@ -10,3 +10,15 @@ No. There are no such other exercises.
 ### Accessibility
 
 Enter your reflections on this section here.
+
+### CSS
+
+### Flexbox
+
+### CSS-grid
+
+### Bootstrap
+
+### Javascript
+
+### JQuery
