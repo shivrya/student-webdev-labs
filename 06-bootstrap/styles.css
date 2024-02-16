@@ -18,6 +18,10 @@ form > * {
   font-size: 1.4em;
 }
 
+.row > .col-3 {
+  background-color: var(--slateblue);
+}
+
 .box {
   height: 160px;
 }

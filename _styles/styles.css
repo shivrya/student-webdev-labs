@@ -25,13 +25,9 @@
 }
 
 body {
-  font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
   font-size: 1.2em;
   color: var(--gray1);
-}
-
-h1 {
-  text-align: center;
 }
 
 .form {
