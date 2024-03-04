@@ -30,14 +30,14 @@ There are no other exercises which might have helped me learn this week's topic 
 
 ### CSS-grid
 
-I could mostly do the exercise independently, though I did rely on the videos a bit.
+I could do the exercise independently.
 I got a lot out of the exercise section.
 I don't think there is anything is which I wish has been explained better.
 There are no other exercises which might have helped me learn this week's topic better. It was good enough.
 
 ### Bootstrap
 
-I could mostly do the exercise independently, though I did rely on the videos a bit.
+I could do the exercise independently.
 The exercise part was really helpful.
 I don't think there is anything is which I wish has been explained better.
 There are no other exercises which might have helped me learn this week's topic better.
